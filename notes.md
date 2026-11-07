@@ -1,4 +1,4 @@
-# Study Group Notes - Updated by Main
+# Study Group Notes - Main and Teammate
 
 ## Mathematics
 - Important formulas
