@@ -4,6 +4,9 @@
 - Important formulas
 - Key concepts
 - Practice problems
+- Linear algebra is important for machine learning
+- Matrices and determinants
+- Eigenvalues and eigenvectors
 
 ## Physics
 - Important laws
