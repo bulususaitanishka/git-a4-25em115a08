@@ -17,3 +17,8 @@
 - Programming concepts
 - Important definitions
 - Practice questions
+
+## Summary
+
+These notes cover important concepts in Mathematics, Physics, and Computer Science.
+Regular revision and practice help improve understanding and academic performance.
